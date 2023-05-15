@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-14T19:09:01 IST" name="Default suite" finished-at="2023-05-14T19:09:16 IST" duration-ms="15236">
+    <groups>
+    </groups>
+    <test started-at="2023-05-14T19:09:01 IST" name="Default test" finished-at="2023-05-14T19:09:16 IST" duration-ms="15236">
+      <class name="com.swagLabs.swagLabs">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:01 IST" name="setupDriver" finished-at="2023-05-14T19:09:05 IST" duration-ms="4650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:05 IST" name="getToSwagLabs" finished-at="2023-05-14T19:09:06 IST" duration-ms="842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToSwagLabs -->
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:06 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-14T19:09:07 IST" duration-ms="605" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingLogin -->
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:07 IST" name="getToSwagLabs" finished-at="2023-05-14T19:09:07 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToSwagLabs -->
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:07 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-14T19:09:07 IST" duration-ms="280" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[something]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingLogin -->
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:07 IST" name="getToSwagLabs" finished-at="2023-05-14T19:09:07 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToSwagLabs -->
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:07 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-14T19:09:08 IST" duration-ms="235" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalidu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingLogin -->
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:08 IST" name="getToSwagLabs" finished-at="2023-05-14T19:09:08 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToSwagLabs -->
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:08 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-14T19:09:13 IST" duration-ms="5369" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[performance_glitch_user]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingLogin -->
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:13 IST" name="getToSwagLabs" finished-at="2023-05-14T19:09:13 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToSwagLabs -->
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:13 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-14T19:09:13 IST" duration-ms="222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalidp]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[something]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingLogin -->
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:13 IST" name="getToSwagLabs" finished-at="2023-05-14T19:09:13 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToSwagLabs -->
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:13 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-14T19:09:14 IST" duration-ms="203" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalidu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingLogin -->
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:14 IST" name="getToSwagLabs" finished-at="2023-05-14T19:09:14 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToSwagLabs -->
+        <test-method signature="verifyLogoOnHomepage()[pri:1, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:14 IST" name="verifyLogoOnHomepage" finished-at="2023-05-14T19:09:14 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoOnHomepage -->
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:14 IST" name="getToSwagLabs" finished-at="2023-05-14T19:09:14 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToSwagLabs -->
+        <test-method signature="verifyHamburgerMenu()[pri:2, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:14 IST" name="verifyHamburgerMenu" finished-at="2023-05-14T19:09:15 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHamburgerMenu -->
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:15 IST" name="getToSwagLabs" finished-at="2023-05-14T19:09:15 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToSwagLabs -->
+        <test-method signature="testingTheFilterSorting()[pri:3, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:15 IST" name="testingTheFilterSorting" finished-at="2023-05-14T19:09:15 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingTheFilterSorting -->
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:15 IST" name="getToSwagLabs" finished-at="2023-05-14T19:09:15 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getToSwagLabs -->
+        <test-method signature="verifyProductsOnHomepage()[pri:3, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:15 IST" name="verifyProductsOnHomepage" finished-at="2023-05-14T19:09:16 IST" duration-ms="591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsOnHomepage -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.swagLabs.swagLabs@41d477ed]" started-at="2023-05-14T19:09:16 IST" name="shutdown" finished-at="2023-05-14T19:09:16 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- com.swagLabs.swagLabs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
