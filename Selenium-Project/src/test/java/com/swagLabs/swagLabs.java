@@ -37,11 +37,11 @@ public class swagLabs {
 //	
 	@BeforeTest
 	public static void setupDriver() {
-//		ChromeOptions co = new ChromeOptions();
-//		co.addArguments("--remote-allow-origins=*"); 
-		System.setProperty("webdriver.http.factory", "jdk-http-client");
-		WebDriverManager.edgedriver().setup();
-		driver=new EdgeDriver();
+		ChromeOptions co = new ChromeOptions();
+		co.addArguments("--remote-allow-origins=*"); 
+//		System.setProperty("webdriver.http.factory", "jdk-http-client");
+		WebDriverManager.chromedriver().setup();
+		driver=new ChromeDriver(co);
 		login=new Login(driver);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	}
