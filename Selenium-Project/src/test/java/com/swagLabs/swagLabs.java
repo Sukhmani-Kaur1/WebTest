@@ -39,7 +39,7 @@ public class swagLabs {
 	public static void setupDriver() {
 		ChromeOptions co = new ChromeOptions();
 		co.addArguments("--remote-allow-origins=*"); 
-//		System.setProperty("webdriver.http.factory", "jdk-http-client");
+//		System.setProperty("webdriver.http.factory", "jdk-http-client"); okay bye
 		WebDriverManager.chromedriver().setup();
 		driver=new ChromeDriver(co);
 		login=new Login(driver);

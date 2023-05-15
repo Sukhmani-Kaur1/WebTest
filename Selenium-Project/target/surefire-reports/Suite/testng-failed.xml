@@ -5,12 +5,12 @@
     <classes>
       <class name="com.swagLabs.swagLabs">
         <methods>
+          <include name="testingTheFilterSorting"/>
           <include name="testingLogin"/>
           <include name="getToSwagLabs"/>
           <include name="verifyLogoOnHomepage"/>
-          <include name="testingTheFilterSorting"/>
-          <include name="shutdown"/>
           <include name="setupDriver"/>
+          <include name="shutdown"/>
           <include name="verifyHamburgerMenu"/>
           <include name="verifyProductsOnHomepage"/>
         </methods>

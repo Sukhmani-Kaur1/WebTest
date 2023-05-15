@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-15T12:13:40 IST" name="Suite" finished-at="2023-05-15T12:14:07 IST" duration-ms="27010">
+  <suite started-at="2023-05-15T12:40:39 IST" name="Suite" finished-at="2023-05-15T12:41:04 IST" duration-ms="24866">
     <groups>
     </groups>
-    <test started-at="2023-05-15T12:13:40 IST" name="Test" finished-at="2023-05-15T12:14:07 IST" duration-ms="27010">
+    <test started-at="2023-05-15T12:40:39 IST" name="Test" finished-at="2023-05-15T12:41:04 IST" duration-ms="24866">
       <class name="com.swagLabs.swagLabs">
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:13:40 IST" name="setupDriver" finished-at="2023-05-15T12:13:47 IST" duration-ms="7203" status="PASS">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:39 IST" name="setupDriver" finished-at="2023-05-15T12:40:48 IST" duration-ms="8946" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:13:47 IST" name="getToSwagLabs" finished-at="2023-05-15T12:13:50 IST" duration-ms="2360" status="PASS">
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:48 IST" name="getToSwagLabs" finished-at="2023-05-15T12:40:50 IST" duration-ms="1383" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getToSwagLabs -->
-        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:13:50 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:13:52 IST" duration-ms="2404" status="PASS">
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:50 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:40:51 IST" duration-ms="1189" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -36,11 +36,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testingLogin -->
-        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:13:52 IST" name="getToSwagLabs" finished-at="2023-05-15T12:13:52 IST" duration-ms="241" status="PASS">
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:51 IST" name="getToSwagLabs" finished-at="2023-05-15T12:40:51 IST" duration-ms="414" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getToSwagLabs -->
-        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:13:52 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:13:53 IST" duration-ms="1196" status="PASS">
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:51 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:40:52 IST" duration-ms="544" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -61,11 +61,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testingLogin -->
-        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:13:53 IST" name="getToSwagLabs" finished-at="2023-05-15T12:13:54 IST" duration-ms="559" status="PASS">
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:52 IST" name="getToSwagLabs" finished-at="2023-05-15T12:40:52 IST" duration-ms="225" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getToSwagLabs -->
-        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:13:54 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:13:54 IST" duration-ms="533" status="PASS">
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:52 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:40:52 IST" duration-ms="397" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -86,11 +86,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testingLogin -->
-        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:13:54 IST" name="getToSwagLabs" finished-at="2023-05-15T12:13:55 IST" duration-ms="171" status="PASS">
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:52 IST" name="getToSwagLabs" finished-at="2023-05-15T12:40:53 IST" duration-ms="131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getToSwagLabs -->
-        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:13:55 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:14:00 IST" duration-ms="5781" status="PASS">
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:53 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:40:58 IST" duration-ms="5671" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -111,11 +111,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testingLogin -->
-        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:00 IST" name="getToSwagLabs" finished-at="2023-05-15T12:14:01 IST" duration-ms="143" status="PASS">
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:58 IST" name="getToSwagLabs" finished-at="2023-05-15T12:40:58 IST" duration-ms="173" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getToSwagLabs -->
-        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:01 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:14:01 IST" duration-ms="468" status="PASS">
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:58 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:40:59 IST" duration-ms="435" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -136,11 +136,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testingLogin -->
-        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:01 IST" name="getToSwagLabs" finished-at="2023-05-15T12:14:01 IST" duration-ms="121" status="PASS">
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:59 IST" name="getToSwagLabs" finished-at="2023-05-15T12:40:59 IST" duration-ms="137" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getToSwagLabs -->
-        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:01 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:14:02 IST" duration-ms="428" status="PASS">
+        <test-method signature="testingLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:59 IST" name="testingLogin" data-provider="credentials" finished-at="2023-05-15T12:40:59 IST" duration-ms="361" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -161,39 +161,39 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testingLogin -->
-        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:02 IST" name="getToSwagLabs" finished-at="2023-05-15T12:14:02 IST" duration-ms="122" status="PASS">
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:59 IST" name="getToSwagLabs" finished-at="2023-05-15T12:40:59 IST" duration-ms="159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getToSwagLabs -->
-        <test-method signature="verifyLogoOnHomepage()[pri:1, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:02 IST" name="verifyLogoOnHomepage" finished-at="2023-05-15T12:14:02 IST" duration-ms="714" status="PASS">
+        <test-method signature="verifyLogoOnHomepage()[pri:1, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:40:59 IST" name="verifyLogoOnHomepage" finished-at="2023-05-15T12:41:00 IST" duration-ms="661" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogoOnHomepage -->
-        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:02 IST" name="getToSwagLabs" finished-at="2023-05-15T12:14:03 IST" duration-ms="147" status="PASS">
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:41:00 IST" name="getToSwagLabs" finished-at="2023-05-15T12:41:00 IST" duration-ms="137" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getToSwagLabs -->
-        <test-method signature="verifyHamburgerMenu()[pri:2, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:03 IST" name="verifyHamburgerMenu" finished-at="2023-05-15T12:14:04 IST" duration-ms="1002" status="PASS">
+        <test-method signature="verifyHamburgerMenu()[pri:2, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:41:00 IST" name="verifyHamburgerMenu" finished-at="2023-05-15T12:41:01 IST" duration-ms="827" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHamburgerMenu -->
-        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:04 IST" name="getToSwagLabs" finished-at="2023-05-15T12:14:04 IST" duration-ms="151" status="PASS">
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:41:01 IST" name="getToSwagLabs" finished-at="2023-05-15T12:41:01 IST" duration-ms="200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getToSwagLabs -->
-        <test-method signature="testingTheFilterSorting()[pri:3, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:04 IST" name="testingTheFilterSorting" finished-at="2023-05-15T12:14:05 IST" duration-ms="1061" status="PASS">
+        <test-method signature="testingTheFilterSorting()[pri:3, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:41:01 IST" name="testingTheFilterSorting" finished-at="2023-05-15T12:41:02 IST" duration-ms="844" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testingTheFilterSorting -->
-        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:05 IST" name="getToSwagLabs" finished-at="2023-05-15T12:14:05 IST" duration-ms="118" status="PASS">
+        <test-method is-config="true" signature="getToSwagLabs()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:41:02 IST" name="getToSwagLabs" finished-at="2023-05-15T12:41:02 IST" duration-ms="139" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getToSwagLabs -->
-        <test-method signature="verifyProductsOnHomepage()[pri:3, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:05 IST" name="verifyProductsOnHomepage" finished-at="2023-05-15T12:14:06 IST" duration-ms="1247" status="PASS">
+        <test-method signature="verifyProductsOnHomepage()[pri:3, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:41:02 IST" name="verifyProductsOnHomepage" finished-at="2023-05-15T12:41:03 IST" duration-ms="992" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyProductsOnHomepage -->
-        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:14:06 IST" name="shutdown" finished-at="2023-05-15T12:14:07 IST" duration-ms="719" status="PASS">
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.swagLabs.swagLabs@8dbdac1]" started-at="2023-05-15T12:41:03 IST" name="shutdown" finished-at="2023-05-15T12:41:04 IST" duration-ms="811" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shutdown -->
